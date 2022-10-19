@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "full_name": "Abhishek Mestri",
+    "email": "ab@google.com",
+   
+    "age": 23,
+    "birth_date": "2022-01-26"
+  },
+  {
+    "id": 2,
+    "full_name": "Anam Shaikh",
+    "email": "anam.google.com",
+    "age": 30,
+    "birth_date": null
+  },
+  {
+    "id": 3,
+    "full_name": "John Doe",
+    "email": "john@google.com",
+   
+    "age": 50,
+    "birth_date": "2021-06-23"
+  },
+  {
+    "id": 4,
+    "full_name": "Marcel Moraru",
+    "email": "marcel@uk.com",
+   
+    "age": 34,
+    "birth_date": "2021-06-07"
+  },
+  {
+    "id": 5,
+    "full_name": "Kevin Sen",
+    "email": "kev@.org",
+    "age": 31,
+    "birth_date": "2021-07-05"
+  },
+  {
+    "id": 6,
+    "full_name": "Danny Paul",
+    "email": "danny@ibm.com",
+   
+    "age": 35,
+    "birth_date": "2021-03-09"
+  },
+  {
+    "id": 7,
+    "full_name": "Larsen Turbo",
+    "email": "lasrsen@turbo.com",
+   
+    "age": 56,
+    "birth_date": "2021-06-03"
+  },
+  {
+    "id": 8,
+    "full_name": "Pallavi Kaur",
+    "email": "pk@virginia.edu",
+    "age": 36,
+    "birth_date": "2021-09-19"
+  },
+  {
+    "id": 9,
+    "full_name": "Samantha ",
+    "email": "samantha8@d.gov",
+    "age": 48,
+    "birth_date": "2021-01-07"
+  }
+  
+]
